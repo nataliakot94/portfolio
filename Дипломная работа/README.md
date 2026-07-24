@@ -23,7 +23,7 @@
 ## 📂 Структура репозитория
 ```text
 ├── датасет.xlsx                         # Исходные сырые данные
-├── SkyLenta_AB_Test_Research.ipynb      # Jupyter-ноутбук (исследование, EDA, стат-тесты)
+├── исследование, EDA, стат-тесты.ipynb      # Jupyter-ноутбук (исследование, EDA, стат-тесты)
 ├── SkyLenta_AB_Test_Calculator.xlsx     # Готовый Excel-калькулятор для бизнеса
 ├── README.md                            # Главная страница вашего проекта
 └── calculator_preview.png               # Скриншот вашего Excel-калькулятора
