@@ -1,11 +1,5 @@
 # Оценка эффективности маркетинговых механик \(Push vs Banner) для ритейлера.
 
-![Статус проекта](https://shields.io)
-![Сфера](https://shields.io)
-![Python](https://shields.io)
-![A/B Testing](https://shields.io)
-![Excel](https://shields.io)
-
 ## 📌 Описание бизнес-контекста
 Проект выполнен в роли продуктового аналитика крупного федерального ритейлера. 
 
@@ -28,13 +22,12 @@
 
 ## 📂 Структура репозитория
 ```text
-├── data/                  # Данные эксперимента (исходные и очищенные)
-├── notebooks/             # Jupyter-ноутбуки с кодом исследования
-│   ├── 1_data_cleaning.ipynb     # Очистка и предобработка данных
-│   └── 2_ab_testing_analysis.ipynb # Статистический анализ и сегментация
-├── reports/               # Excel-калькулятор и финальные отчеты
-│   └── SkyLenta_AB_Test_Calculator.xlsx
-└── README.md              # Документация проекта
+├── Новый диплом датасет update.xlsx      # Исходные сырые данные
+├── SkyLenta_AB_Test_Research.ipynb       # Jupyter-ноутбук (исследование, EDA, стат-тесты)
+├── SkyLenta_AB_Test_Calculator.xlsx     # Готовый Excel-калькулятор для бизнеса
+├── README.md                            # Главная страница вашего проекта
+└── calculator_preview.png               # Скриншот вашего Excel-калькулятора
+
 ```
 
 ## 📊 Основные этапы и результаты исследования
